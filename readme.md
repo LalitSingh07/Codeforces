@@ -1,4 +1,4 @@
-```
+
 # Codeforces Problem Solutions
 
 This repository contains solutions for problems from Codeforces.
@@ -15,5 +15,4 @@ This repository contains solutions for problems from Codeforces.
 
 This problem is about finding the number of rooms that can accommodate more people. The solution has a time complexity of O(n).
 
-```
 # Codeforces Problem Solutions
